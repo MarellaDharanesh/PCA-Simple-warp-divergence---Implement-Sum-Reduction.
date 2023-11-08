@@ -223,10 +223,10 @@ int main() {
 
 ## Output:
 unrolling8
-![image](https://github.com/sherwin-roger0/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/50732268/34a68745-1b91-4c79-9485-837245f48bff)
+![image](https://github.com/MarellaDharanesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/118707669/fa46c103-760b-4146-a171-bbabd166b1ba)
 
 unrolling16
-![image](https://github.com/sherwin-roger0/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/50732268/0d11049b-ca14-4971-9ca3-7f48491ab108)
+![image](https://github.com/MarellaDharanesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/118707669/0229e1aa-8750-4d76-b801-c45b1b923654)
 
 ## Result:
 Implementation of the kernel reduceUnrolling16 is done and the performance of kernal reduceUnrolling16 is comapared with kernal reduceUnrolling8 using proper metrics and events with nvprof.
